@@ -1,0 +1,88 @@
+body {
+}
+#desktop img {
+  width: 350px;
+  height: 238px;
+  margin-bottom: 32px;
+  margin-left: 780px;
+  margin-top: 64px; 
+}
+#desktop h1 {
+  width: 494px;
+  text-align: center;
+  font-size: 32px;
+  font-family: Dosis;
+  font-style: normal;
+  font-weight: normal;
+  color: #3f3d56;
+  margin: auto;
+  margin-bottom: 16px;
+}
+#desktop span {
+  color: #ee24ff;
+  font-weight: bold;
+}
+#text1 {
+  width: 540px;
+  height: 107px;
+  margin: auto;
+}
+
+#text1 p {
+  font-family: Open-sans;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: normal;
+  text-align: center;
+  color: #828282;
+  margin-bottom: 32px;
+}
+#text1 strong {
+  color: #3f3d56;
+  font-weight: bold;
+}
+#text1 span {
+  color: #828282;
+  font-weight: bold;
+}
+#text2 p {
+  font-family: Open-sans;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: normal;
+  text-align: center;
+  color: #828282;
+  margin-bottom: 32px;
+}
+#text2 {
+  margin-bottom: 64px;
+}
+#line {
+  width: 391px;
+  border: 1px #eceff2 solid;
+  margin: auto;
+  margin-bottom: 16px;
+}
+
+#footer {
+  text-align: center;
+}
+#footer a {
+  text-align: center;
+  font-family: Open Sans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: bold;
+  color: #3f3d56;
+}
+#footer a + a {
+  margin-left: 42px;
+}
+#rodape img {
+  margin-top: 40px;
+  width: 100%;
+  height: 104px;
+  position: fixed;
+  bottom: 0;
+ 
+}
